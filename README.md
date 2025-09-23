@@ -1,2 +1,2 @@
-# lot_of_a_news
-ニュースを表示するアプリです。
+# todo_next
+Next.jsで作るTodoリストです。
